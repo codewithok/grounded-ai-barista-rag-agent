@@ -50,19 +50,19 @@ The agent uses the menu as the source of truth instead of freely generating unsu
 
 The Streamlit interface displays the available menu items and provides an interactive chat experience with the AI barista.
 
-![Coffee Shop Interface](screenshots/coffee-shop-interface.png)
+![Coffee Shop Interface](screenshots/coffee-shop-interface.png.jpg)
 
 ### 2. Grounded Recommendation
 
 When a customer asks for an unavailable item, the agent does not invent it. Instead, it explains that the item is not available and suggests suitable alternatives from the actual menu.
 
-![Grounded Recommendation](screenshots/grounded-recommendation.png)
+![Grounded Recommendation](screenshots/grounded-recommendation.png.jpg)
 
 ### 3. Dietary Preference Recommendation
 
 The agent recommends a suitable menu item based on the customer's preferences, such as strength and temperature, while considering dietary requirements such as lactose intolerance and using the menu's dietary tags and allergen information.
 
-![Dietary Preference Recommendation](screenshots/dietary-recommendation.png)
+![Dietary Preference Recommendation](screenshots/dietary-recommendation.png.jpg)
 
 ## 🎯 Demonstrated Use Cases
 
